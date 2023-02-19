@@ -10,7 +10,11 @@ const Header = () => (
     <Div1>
       <Link href="/">
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
-          <DiCssdeck size="3rem" /> <Span>devkaram</Span>
+          <img 
+            src="/images/logo.svg"
+            alt="logo"
+            style={{ width: '3rem', height: '3rem', marginRight: '.8rem' }}
+          /> <Span>devkaram</Span>
         </a>
       </Link>
     </Div1>
