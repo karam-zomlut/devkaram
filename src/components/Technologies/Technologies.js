@@ -42,6 +42,8 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
     </List>
+
+    <SectionDivider style={{marginTop: '2rem'}} />
   </Section>
 );
 
