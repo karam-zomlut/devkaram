@@ -31,6 +31,11 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-GB'>
         <Head>
+          <title>Dev Karam</title>
+          <meta name='description' content='Dev Karam Portfolio' />
+          <meta name='keywords' content='Dev Karam, Portfolio, Developer' />
+          <meta name='author' content='Dev Karam' />
+          <link rel='icon' href='/images/logo.svg' />
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
         </Head>
         <body>
